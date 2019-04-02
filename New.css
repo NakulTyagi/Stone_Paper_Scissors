@@ -1,0 +1,18 @@
+.header {
+  align-content: center;
+}
+#moves {
+  align-content: center;
+  margin-left: 550px;
+}
+#h2 {
+  margin-left: 170px;
+}
+#again {
+  margin-left: 100px;
+}
+#p1 {
+  /* margin-left: 550px; */
+  align-content: center;
+  text-align: center;
+}
